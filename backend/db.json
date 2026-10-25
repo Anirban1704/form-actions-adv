@@ -1,0 +1,39 @@
+{
+  "opinions": [
+    {
+      "id": 1792932990741,
+      "votes": 2,
+      "userName": "Anirban",
+      "title": "Form actions are new.",
+      "body": "A new features introduced with React v.19"
+    },
+    {
+      "id": 1792932327929,
+      "votes": 0,
+      "userName": "Anirban",
+      "title": ".Net is great",
+      "body": "Industry still use it for reliable backend."
+    },
+    {
+      "id": 1792932246373,
+      "votes": 0,
+      "userName": "Anirban",
+      "title": "React is great!",
+      "body": "I really like a lot - everyone should learn it."
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
